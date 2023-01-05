@@ -15,9 +15,9 @@ var heart2
 var heart3
 
 function preload(){
-playerIMG = loadImage("Player.png")
-skyIMG = loadImage("Background.png")
-obstacleIMG = loadImage("Obstacle.png")
+playerIMG =loadImage("Player.png")
+skyIMG =loadImage("Background.png")
+obstacleIMG=loadImage("Obstacle.png")
 vacIMG=loadImage("Mask Button.png")
 youIMG=loadImage("you won.jpg")
 pillIMG=loadImage("pill.png")
